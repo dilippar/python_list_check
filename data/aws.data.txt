@@ -1,0 +1,32 @@
+Management and Governance:
+AWS Auto Scaling
+AWS CloudFormation
+AWS CloudTrail
+Amazon CloudWatch
+AWS Trusted Advisor
+Machine Learning:
+Amazon SageMaker
+Migration and Transfer:
+AWS Database Migration Service (AWS DMS)
+AWS DataSync
+AWS Snowball
+AWS Transfer for SFTP
+Networking and Content Delivery:
+Amazon API Gateway
+AWS Direct Connect
+Amazon VPC (and associated features)
+Security, Identity, and Compliance:
+AWS AppSync
+AWS Artifact
+AWS Certificate Manager (ACM)
+AWS CloudHSM
+Amazon Cognito
+AWS Identity and Access Management (IAM)
+AWS Key Management Service (AWS KMS)
+Amazon Macie
+AWS Secrets Manager
+AWS Single Sign-On
+Storage:
+Amazon Elastic Block Store (Amazon EBS)
+Amazon S3
+Amazon S3 Glacier
